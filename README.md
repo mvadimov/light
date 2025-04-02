@@ -2,10 +2,9 @@
 <h4 align="left">This SwiftUI application ith a beautifully designed interface, you can effortlessly turn your lamp on and off, and adjust the brightness to create the perfect ambiance for any occasion.</h4>
 <br>
 <br>
-<video src="https://github.com/user-attachments/assets/5f71c4fc-3317-4c61-8fc6-1b1582135647" autoplay  width="full">
-<br>
-  ![](https://github.com/user-attachments/assets/3e1ddc0d-2d74-4d0c-80b5-3e79ee958e6e)
+<img src="https://github.com/user-attachments/assets/3e1ddc0d-2d74-4d0c-80b5-3e79ee958e6e" width="full"/>
 
+<br>
 <h3>Technologies Used</h3>
 <ul>
   <li>Swift</li>
