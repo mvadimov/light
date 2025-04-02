@@ -10,6 +10,4 @@
   <li>SwiftUI</li>
   <li>MVVM Architecture</li>
 </ul>
-
-
 <h4>Customize your lighting with ease and transform the mood of your room in seconds! Enjoy the perfect blend of functionality and stunning design.</h4>
