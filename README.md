@@ -4,7 +4,8 @@
 <br>
 <video src="https://github.com/user-attachments/assets/5f71c4fc-3317-4c61-8fc6-1b1582135647" autoplay  width="full">
 <br>
-  
+  ![](https://github.com/user-attachments/assets/3e1ddc0d-2d74-4d0c-80b5-3e79ee958e6e)
+
 <h3>Technologies Used</h3>
 <ul>
   <li>Swift</li>
